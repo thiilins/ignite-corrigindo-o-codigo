@@ -6,7 +6,7 @@
   <!-- <a href="https://ignitecorrigindoocodigo.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Ignite Corrigindo o Codigo</h1>
+<h1 align="center">Ignite: Desafio 3 -  Corrigindo o Codigo</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge">
@@ -71,10 +71,6 @@ Descrição de cada propriedade:
 - **likes** é a quantidade de likes que o repositório recebeu (e que vai ser incrementada de 1 em 1 a cada chamada na rota de likes).
 
 Note que a quantidade de likes deve sempre ser zero no momento de criação.
-
-## Rotas da aplicação
-
-Com o template já clonado e o arquivo `index.js` aberto, você deve completar onde não possui código com o código para atingir os objetivos de cada teste.
 
 ### GET `/repositories`
 
