@@ -6,7 +6,7 @@
   <!-- <a href="https://ignitecorrigindoocodigo.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Ignite: Desafio 3 -  Corrigindo o Codigo</h1>
+<h1 align="center">Ignite | Trilha NodeJS: Desafio 3 -  Corrigindo o Codigo</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge">
