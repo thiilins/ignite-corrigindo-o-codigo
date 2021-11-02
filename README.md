@@ -9,19 +9,19 @@
 <h1 align="center">Ignite Corrigindo o Codigo</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/ignite-corrigindo-o-codigo?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/ignite-corrigindo-o-codigo?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/ignite-corrigindo-o-codigo?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/ignite-corrigindo-o-codigo?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/thiilins/ignite-corrigindo-o-codigo?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/thiilins/ignite-corrigindo-o-codigo?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/thiilins/ignite-corrigindo-o-codigo?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/thiilins/ignite-corrigindo-o-codigo?color=04d361&style=for-the-badge" /> -->
 </p>
 
 <!-- Status -->
@@ -35,7 +35,7 @@
 <p align="center">
   <a href="#computer-sobre-o-desafio">Sobre</a> &#xa0; |  &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/thiilins" target="_blank">Autor</a>
